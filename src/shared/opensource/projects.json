@@ -1,0 +1,256 @@
+{
+  "data": [
+    {
+      "id": "YsbfOlJlcG9zaXRvcnkzMjUhdkhs.",
+      "name": "Truckby",
+      "thumbnail_path": "truckby_thumbnail.png",
+      "alt_name": "Truckby",
+      "createdAt": "2025-06-25",
+      "url": "https://github.com/ShoaibFarooka/Brainwave",
+      "description": "Trucksby is a full-stack web app for managing and showcasing truck inventories, enabling sellers to list and manage trucks while buyers can browse, search, and connect—built with React, Node.js, MongoDB, Stripe, and AWS S3.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Node",
+          "iconifyClass": "logos-nodejs"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOJWL0-g",
+      "name": "Pondus Gym Management",
+      "thumbnail_path": "pondus_thumbnail.jpg",
+      "alt_name": "Pondus",
+      "createdAt": "2024-10-31",
+      "url": "https://github.com/PondusSystems/pondus_app",
+      "description": "Pondus is a scalable SaaS-based gym management system that streamlines operations for single or multi-location gyms, offering tools for member management, payments, and performance tracking with customizable subdomains for each gym.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Node",
+          "iconifyClass": "logos-nodejs"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Airdi Bus Booking",
+      "thumbnail_path": "airdi_thumbnail.jpg",
+      "alt_name": "Airdi",
+      "createdAt": "2023-11-15",
+      "url": "https://github.com/ShoaibFarooka/AIRDI",
+      "description": "Airdi is a comprehensive bus booking web app that enables users to easily book and manage tickets, while providing admins with powerful tools for route management, sales tracking, passenger check-ins, and promotional control.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "Tailwind",
+          "iconifyClass": "logos-tailwindcss-icon"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Node",
+          "iconifyClass": "logos-nodejs"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG0_8uQ",
+      "name": "The Bff",
+      "thumbnail_path": "bff_thumbnail.jpg",
+      "alt_name": "The Bff",
+      "createdAt": "2024-01-24",
+      "url": "https://github.com/ShoaibFarooka/TheBff",
+      "description": "The BFF is a smart fitness platform where users can plan workouts, track progress, and book personal trainers, while trainers can manage bookings, view stats, and track performance—all in one place.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "TypeScript",
+          "iconifyClass": "devicon-typescript"
+        },
+        {
+          "name": "Next",
+          "iconifyClass": "teenyicons-nextjs-solid"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "ACTIV-Q",
+      "thumbnail_path": "activq_thumbnail.jpg",
+      "alt_name": "Activ-q",
+      "createdAt": "2024-05-04",
+      "url": "https://github.com/ShoaibFarooka/ACTIVQ",
+      "description": "ACTIV-Q is a web-based calibration management app that streamlines employee oversight, equipment calibration, and PDF report generation with role-based access and precision-focused features.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Node",
+          "iconifyClass": "logos-nodejs"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOGcPKSQ",
+      "name": "AdStatixx",
+      "thumbnail_path": "adstatixx_thumbnail.jpg",
+      "alt_name": "Ad Statixx",
+      "createdAt": "2024-11-10",
+      "url": "https://github.com/ShoaibFarooka/AdStatixx",
+      "description": "AdStatixx is a MERN-stack powered ad management platform that helps businesses create, launch, and optimize campaigns with real-time analytics, budget control, and detailed reporting to maximize ROI.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Node",
+          "iconifyClass": "logos-nodejs"
+        }
+      ]
+    },
+    {
+      "id": "IbdlslJlcG9zahdfjbjf",
+      "name": "Massage Parlor",
+      "thumbnail_path": "parlor_thumbnail.png",
+      "alt_name": "Massage Parlor",
+      "createdAt": "2025-05-04",
+      "url": "https://github.com/ShoaibFarooka/MassageParlor",
+      "description": "This full-stack web app streamlines massage parlor operations with features like user authentication, booking management, and provider oversight—built using React, Node.js/Express, and RESTful APIs for scalability and ease of maintenance.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Node",
+          "iconifyClass": "logos-nodejs"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
+      "name": "Plutonium",
+      "thumbnail_path": "plutonium_thumbnail.png",
+      "alt_name": "Plutonium",
+      "createdAt": "2024-03-24",
+      "url": "https://github.com/ShoaibFarooka/Brainwave",
+      "description": "Plutonium is an interactive quiz platform where students access quizzes, study materials, and track performance, while educators create exams, manage students, and monitor progress—all in a seamless, user-friendly app.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Node",
+          "iconifyClass": "logos-nodejs"
+        }
+      ]
+    }
+  ]
+}
